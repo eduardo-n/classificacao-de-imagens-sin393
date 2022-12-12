@@ -1,7 +1,7 @@
 # SIN 393
 ## Projeto 01 – Classificação de imagens
 
-Esse trabalho foi elaborado como uma das exigências da disciplina de Introdução à visão computacional.
+Esse trabalho foi elaborado como uma das exigências da disciplina de Introdução à visão computacional. A descrição do trabalho pode ser lida no arquivo .pdf -> "sin393 2022 -Descricao do trabalho"
 
 Autor: Eduardo Nunes de Oliveira <br />
 Matrícula: 6021 <br />
